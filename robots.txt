@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.x53vmd.cn/sitemap.xml
